@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Titulo de primer nivel
+      h1 Patrones de conducta
 
     .row.justify-content-center.my-5
       .col-lg-10
