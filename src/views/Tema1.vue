@@ -61,7 +61,7 @@
     .row.justify-content-center.my-5
       .col-lg-9
         .cajon.color-acento-contenido.p-4
-          p Por su lado, el concepto de “audiencia meta” está relacionado con la función del canal en donde se comunica o se promociona un producto (bien o servicio).
+          p Para una empresa es vital considerar que la audiencia digital se puede conformar por:
           .row
             ul.lista-ul
               li
@@ -121,7 +121,7 @@
 
         .tarjeta.color-acento-botones.p-3(x="22%" y="74%" numero="6")
           h5.mb-2 Audiencia
-          p En la actualidad, los canales digitales como las redes sociales, el correo electrónico, el chat, el blog, el sitio web, etc., aportan mejores métricas o indicadores de gestión sobre la audiencia y en sí, sobre lo realizado a nivel publicitario en Internet. 
+          p En la actualidad, los canales digitales como las redes sociales, el correo electrónico, el chat, el #[i blog], el sitio #[i web], etc., aportan mejores métricas o indicadores de gestión sobre la audiencia y en sí, sobre lo realizado a nivel publicitario en Internet. 
 
     separador
 
@@ -192,7 +192,7 @@
           .row(titulo="").justify-content-center
             .col-lg-6
               h3 Herramientas de búsqueda
-              p Apoyo de herramientas y motores de búsqueda. Conseguir que los contenidos digitales estén justo donde la audiencia se encuentra facilita enormemente los esfuerzos publicitarios y de mercadeo. Por eso es importante apoyarse en herramientas que admiten conocer en dónde se encuentra la audiencia e incluso, en donde se encuentra la competencia. Google Trends, SimilarWeb, Semrush y Alexa con algunas de estas herramientas. Lo mismo ocurre en las redes sociales porque allí también se pueden hallar clientes y prospectos. Además, existen plataformas que admiten encontrar e ir directamente a los clientes, como, por ejemplo, Hootsuite, Klout, TweetReach, HowSociable, Twazzup, etc.
+              p Apoyo de herramientas y motores de búsqueda. Conseguir que los contenidos digitales estén justo donde la audiencia se encuentra facilita enormemente los esfuerzos publicitarios y de mercadeo. Por eso es importante apoyarse en herramientas que admiten conocer en dónde se encuentra la audiencia e incluso, en donde se encuentra la competencia. #[i Google Trends, SimilarWeb, Semrush] y Alexa con algunas de estas herramientas. Lo mismo ocurre en las redes sociales porque allí también se pueden hallar clientes y prospectos. Además, existen plataformas que admiten encontrar e ir directamente a los clientes, como, por ejemplo, #[i Hootsuite, Klout, TweetReach, HowSociable, Twazzup], etc.
 
             .col-10.col-lg-6
               figure
@@ -210,7 +210,7 @@
           .row(titulo="").justify-content-center
             .col-lg-6
               h3 Creación de contenidos
-              p Creación de contenidos de valor. Los contenidos digitales fidelizan; con trabajo SEO (Search Engine Marketing) los contenidos se hacen virales, atraen tráfico y también incentivan las compras.  Pero, para lograr que éste se pueda viralizar y ayude a una acción de compra se requiere de compartir aquellos que sean deseados, esperados y anhelados por el público. No es una tarea fácil de desarrollar, pero, si se logra realizar una buena labor, los contenidos digitales permiten ganar credibilidad y confianza. Por eso es vital saber de antemano qué es lo que los clientes desean leer, ver o escuchar. 
+              p Creación de contenidos de valor. Los contenidos digitales fidelizan; con trabajo SEO (#[i Search Engine Marketing]) los contenidos se hacen virales, atraen tráfico y también incentivan las compras.  Pero, para lograr que éste se pueda viralizar y ayude a una acción de compra se requiere de compartir aquellos que sean deseados, esperados y anhelados por el público. No es una tarea fácil de desarrollar, pero, si se logra realizar una buena labor, los contenidos digitales permiten ganar credibilidad y confianza. Por eso es vital saber de antemano qué es lo que los clientes desean leer, ver o escuchar. 
 
             .col-10.col-lg-6
               figure
@@ -219,7 +219,7 @@
           .row(titulo="").justify-content-center
             .col-lg-6
               h3 Analítica web
-              p Uso de la analítica web. Es enorme la cantidad de métricas de valor que pueden ser obtenidas a través de herramientas como Google Analytics, Google Ads, SEMrush, Hootsuite o Kissmetrics, entre otras Incluso, les mismas redes sociales entregan datos estadísticos que pueden servir para analizar si los esfuerzos publicitarios están cumpliendo con los objetivos trazados. El buen uso de estas herramientas también ayuda a hallar el público en la web
+              p Uso de la analítica #[i web]. Es enorme la cantidad de métricas de valor que pueden ser obtenidas a través de herramientas como #[i Google Analytics, Google Ads, SEMrush, Hootsuite] o #[i Kissmetrics], entre otras Incluso, las mismas redes sociales entregan datos estadísticos que pueden servir para analizar si los esfuerzos publicitarios están cumpliendo con los objetivos trazados. El buen uso de estas herramientas también ayuda a hallar el público en la #[i web].
 
             .col-10.col-lg-6
               figure
@@ -264,7 +264,7 @@
     #t_1_4
 
     .titulo-segundo.color-acento-contenido.my-5
-      h2 1.4. La cultura de masas
+      h2 1.4 La cultura de masas
 
     .row.justify-content-center.my-5
       p  A continuación, se presentan el concepto sobre la cultura de masas. 
@@ -293,7 +293,7 @@
               img(src='@/assets/curso/temas/tema1/img22.png', alt='Texto que describa la imagen')
           
         h3.text-center.mt-4 Hacinamiento de individuos
-        p Por su lado, el concepto de masa hace referencia a distintos asuntos. Desde un enfoque de marketing, el significado de masa se vincula a una gran cantidad o hacinamiento de individuos. La masa, en este contexto, está compuesta por un grupo social.
+        p Por su lado, el concepto de masa hace referencia a distintos asuntos. Desde un enfoque de #[i marketing], el significado de masa se vincula a una gran cantidad o hacinamiento de individuos. La masa, en este contexto, está compuesta por un grupo social.
 
     .row.my-5
       .col-lg-10
@@ -312,7 +312,7 @@
     #t_1_5
 
     .titulo-segundo.color-acento-contenido.my-5
-      h2 1.5. La gestión de clientes
+      h2 1.5 La gestión de clientes
 
 
     .row
@@ -334,7 +334,7 @@
     .row.justify-content-center.my-5
       .col-lg-8
         .row
-          h4 Experiencia de cliente en internet
+          h4 Experiencia de cliente en #[i internet]
           .bloque-texto-b
             .bloque-texto-b__texto
               i.fas.fa-quote-left

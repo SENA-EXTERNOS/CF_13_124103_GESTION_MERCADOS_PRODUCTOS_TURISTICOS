@@ -15,7 +15,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img1.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 #[strong Casanova Ríspoli (2009)] afirma que desde el área de la psicología lo importante es observar cuál es el comportamiento habitual de un individuo. Pueden existir comportamientos positivos y negativos, pero, es necesario asociarlos a un contexto específico que justifique las reacciones
+              p.mb-0 #[strong Casanova Ríspoli (2009)] afirma que desde el área de la psicología lo importante es observar cuál es el comportamiento habitual de un individuo. Pueden existir comportamientos positivos y negativos, pero, es necesario asociarlos a un contexto específico que justifique las reacciones.
 
     .row.justify-content-center.my-5
       .col-lg-9.mt-5
@@ -91,7 +91,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-4
-              p #[strong Casanova Ríspoli (2009) ] menciona que en la actualidad hay una saturación publicitaria y todos los días nacen más formas de impactar al público objetivo en la web. Esta situación no le ayuda a la publicidad como tal porque el cliente se ve sometido a un exceso de información.
+              p #[strong Casanova Ríspoli (2009) ] menciona que en la actualidad hay una saturación publicitaria y todos los días nacen más formas de impactar al público objetivo en la #[i web]. Esta situación no le ayuda a la publicidad como tal porque el cliente se ve sometido a un exceso de información.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img5.png')})`}")
 
       .col-lg-5.my-3

@@ -5,12 +5,12 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Marketing digital
+      h1 #[i Marketing] digital
 
     .row.justify-content-center.my-5
       
       .col-lg-8.my-5
-        p Como lo mencionan #[strong Xie y Min], veamos cómo se concibe el marketing digital.  Según Xie y Min (2019) mencionan que la evolución de la #[i web] y las Tecnología de la Comunicación y la Comunicación (TIC) han logrado que la sociedad de hoy sea más digital e interconectada. 
+        p Como lo mencionan #[strong Xie y Min], veamos cómo se concibe el #[i marketing] digital.  Según Xie y Min (2019) mencionan que la evolución de la #[i web] y las Tecnología de la Comunicación y la Comunicación (TIC) han logrado que la sociedad de hoy sea más digital e interconectada. 
         
         .cajon.color-acento-contenido.p-3.my-3
           p La tecnología cambió drásticamente el mundo, los hábitos de los seres humanos, su forma de pensar y su actitud como clientes. Estos cambios sociales han sucedido porque:
@@ -52,7 +52,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema3/img4.png', alt='Texto que describa la imagen').img4-t3          
               h4.text-center.mt-4 Interacción
-              p.text-center Los usuarios web necesitan de la interacción para ser tenidos en cuenta.
+              p.text-center Los usuarios #[i web] necesitan de la interacción para ser tenidos en cuenta.
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -62,7 +62,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img5.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 La diferencia entre el mercadeo tradicional y el marketing digital es la diferencia entre las estrategias #[i push] (inclinar la información a los clientes) y #[i pull] (atraer a los clientes a la marca). Este enfoque sirve para prestarle más atención al cliente y a su relacionamiento con la marca. Las 4P tradicionales del mercadeo (Producto, Precio, Plaza y Promoción), centradas desde el producto, se han convertido hoy en las 4F del #[i marketing] digital
+              p.mb-0 La diferencia entre el mercadeo tradicional y el #[i marketing] digital es la diferencia entre las estrategias #[i push] (inclinar la información a los clientes) y #[i pull] (atraer a los clientes a la marca). Este enfoque sirve para prestarle más atención al cliente y a su relacionamiento con la marca. Las 4P tradicionales del mercadeo (Producto, Precio, Plaza y Promoción), centradas desde el producto, se han convertido hoy en las 4F del #[i marketing] digital
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -77,7 +77,7 @@
 
           div(x="39.9%" y="40%" tooltip="Funcionalidad" numero="2")
             h5 Funcionalidad
-            p.ps-4 <i class='fas fa-circle' style='font-size:10px'></i> Funcionalidad. Los sitios web deben ser usables, navegables y accesibles para los usuarios. Si no son funcionales conllevan a una ruptura con el estado mental del cliente, que es el flujo.
+            p.ps-4 <i class='fas fa-circle' style='font-size:10px'></i> Funcionalidad. Los sitios  <i>web</i> deben ser usables, navegables y accesibles para los usuarios. Si no son funcionales conllevan a una ruptura con el estado mental del cliente, que es el flujo.
 
           div(x="60.2%" y="40%" tooltip="<i>Feedback</i>" numero="3")
             h5 #[i Feedback]
@@ -90,14 +90,14 @@
     .row.my-5
       .col-lg-10
         .cajon.color-acento-contenido.p-3.my-5
-          p Para ampliar información revise el  #[strong Anexo 7. Marketing digital,] en su página inicial se detallan otros aspectos relacionados con el marketing digital.
+          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital,] en su página inicial se detallan otros aspectos relacionados con el #[i marketing digital].
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p #[strong Anexo 7.] Marketing digital
+                  p #[strong Anexo 7.] #[i Marketing] digital
 
     separador
 
@@ -107,13 +107,13 @@
       h2 3.1 Herramientas
 
     .row.my-5
-      p El marketing digital se compone de herramientas que facilitan la expansión de productos y servicios de forma online.
+      p El #[i marketing] digital se compone de herramientas que facilitan la expansión de productos y servicios de forma #[i online].
 
     .row.justify.content-center.my-5
       ul.lista-ul1
         li
           i.fas.fa-square
-          b Análisis situacional y de mercado
+          b Herramientas de #[i marketing] digital
 
     .row.justify.content-center.my-5
       .col-lg-5
@@ -122,7 +122,7 @@
 
       .col-lg-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          .row(titulo="Importancia del marketing digital")
+          .row(titulo="Importancia del <i>marketing</i> digital")
             p El mercadeo es importante para cualquier tipo de empresa, sea pequeña, mediana o grande, si se quiere incrementar su visibilidad consiguiendo cada vez más clientes. Para lograrlo, se hace necesario tener a la mano una serie de herramientas que entregan soluciones para impulsar la marca. 
           
           .row(titulo="Planificación")
@@ -134,14 +134,14 @@
     .row.my-5
       .col-lg-10
         .cajon.color-acento-contenido.p-3.my-5
-          p Para ampliar información revise el  #[strong Anexo 7. Marketing digital,] en la sección #[strong herramientas,] se precisan diversas herramientas digitales vinculadas al marketing digital. 
+          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital,] en la sección #[strong herramientas,] se precisan diversas herramientas digitales vinculadas al #[i marketing] digital. 
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p #[strong Anexo 7.] Marketing digital
+                  p #[strong Anexo 7.] #[i Marketing] digital
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -153,7 +153,7 @@
                   img(src='@/assets/curso/temas/tema3/img8.png', alt='Texto que describa la imagen')
             #t_3_2              
             h3.text-center.mt-5 3.2 Técnicas
-            p.text-center La aceptación y uso de nuevas herramientas nacidas a través de las nuevas tecnologías, ha generado un nuevo tipo de mercadeo en el que se ha vuelto preponderante la interacción con el cliente. Es por esto que el marketing digital usa diferentes técnicas para lograr los objetivos pactados, las cuales poseen características que se adecúan a una u otra estrategia, aunque también es posible que se adecúan a varias estrategias, siempre y cuando sirvan para reformar sus respectivos planes de acción.
+            p.text-center La aceptación y uso de nuevas herramientas nacidas a través de las nuevas tecnologías, ha generado un nuevo tipo de mercadeo en el que se ha vuelto preponderante la interacción con el cliente. Es por esto que el #[i marketing] digital usa diferentes técnicas para lograr los objetivos pactados, las cuales poseen características que se adecúan a una u otra estrategia, aunque también es posible que se adecúan a varias estrategias, siempre y cuando sirvan para reformar sus respectivos planes de acción.
           
           .col-md.tarjeta.color-rosa1.p-4
             .row.justify-content-center.mb-4
@@ -167,25 +167,25 @@
     .row.justify-content-center.my-5
       .col-lg-6.my-3
         .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el  #[strong Anexo 7. Marketing digital, ] en la sección de #[strong técnicas,] se describen las más usadas actualmente.
+          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital, ] en la sección de #[strong técnicas,] se describen las más usadas actualmente.
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p #[strong Anexo 7.] Marketing digital
+                  p #[strong Anexo 7.] #[i Marketing] digital
 
       .col-lg-6.my-3
         .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el  #[strong Anexo 7. Marketing digital, ] en la sección de #[strong estrategias,] se detallan las categorías en las que se clasifican las diversas estrategias asociadas al marketing digital.
+          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital, ] en la sección de #[strong estrategias,] se detallan las categorías en las que se clasifican las diversas estrategias asociadas al #[i marketing] digital.
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p #[strong Anexo 7.] Marketing digital
+                  p #[strong Anexo 7.] #[i Marketing] digital
 
 
 

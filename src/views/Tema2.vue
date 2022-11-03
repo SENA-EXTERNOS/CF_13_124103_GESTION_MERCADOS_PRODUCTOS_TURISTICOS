@@ -45,6 +45,9 @@
           p Las comunidades virtuales se caracterizan así:
       .col-lg-5
 
+    .rom-mt-5
+      h3 Características de las comunidades virtuales 
+
     .row.justify-content-center.my-5
         .row.justify-content-center.align-items-center
           .col-lg-10
@@ -110,13 +113,13 @@
       .col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Comunidades sociales")
-            p Es uno de los tipos más comunes. Incluye redes sociales como Facebook, Instagram, Twitter, Tinder, Pinterest, entre muchas otras. Por lo general las marcas le dan uso a este tipo de comunidad para fines comerciales, desarrollando estrategias publicitarias y de marketing, difundiendo noticias, promociones, promociones de venta y datos de interés para los miembros, llamados como seguidores o fanáticos. Esto ayuda a la amplificación de la marca y a su reconocimiento con respecto a la audiencia. También sirven para hacer Benchmarking, o sea, rastrear, estudiar y compararse con la competencia para comprender mucho mejor sobre la creación de estrategias usadas en la actualidad.  
+            p Es uno de los tipos más comunes. Incluye redes sociales como Facebook, Instagram, Twitter, Tinder, Pinterest, entre muchas otras. Por lo general las marcas le dan uso a este tipo de comunidad para fines comerciales, desarrollando estrategias publicitarias y de #[i marketing], difundiendo noticias, promociones, promociones de venta y datos de interés para los miembros, llamados como seguidores o fanáticos. Esto ayuda a la amplificación de la marca y a su reconocimiento con respecto a la audiencia. También sirven para hacer #[i Benchmarking], o sea, rastrear, estudiar y compararse con la competencia para comprender mucho mejor sobre la creación de estrategias usadas en la actualidad.  
 
           .row(titulo="Comunidades de aprendizaje y conocimiento")
             p Usada por marcas que intercambian aprendizaje y conocimiento, ayudando a poseer una conexión mucho más grande con la audiencia, lo que mejora la imagen de una empresa. Usando una plataforma digital de confianza, las marcas comparten saberes, datos investigativos, ciencia, tecnología y muchos más temas exclusivos, que sean de interés para los miembros.
 
           .row(titulo="Comunidades de <i>insights</i>")
-            p También se pueden conocer como “Comunidades de investigación online”. Se conforman por un grupo de individuos que se seleccionan con mucho cuidado porque han mantenido una relación duradera con la marca. Son comunidades que permiten que una marca recoja de manera continua las mejores opiniones, las que posean alta calidad, y que provengan bien sea de los clientes, de los socios e inclusive de los empleados. Usando estrategias de investigación de mercado populares, ayuda a localizar el camino ideal para lograr una mejoría en la CX, así como diseñar el desarrollo de estrategias de mercadeo e innovación que tengan éxito.
+            p También se pueden conocer como “Comunidades de investigación #[i online]”. Se conforman por un grupo de individuos que se seleccionan con mucho cuidado porque han mantenido una relación duradera con la marca. Son comunidades que permiten que una marca recoja de manera continua las mejores opiniones, las que posean alta calidad, y que provengan bien sea de los clientes, de los socios e inclusive de los empleados. Usando estrategias de investigación de mercado populares, ayuda a localizar el camino ideal para lograr una mejoría en la CX, así como diseñar el desarrollo de estrategias de mercadeo e innovación que tengan éxito.
 
           .row(titulo="Comunidades de asesores y redes de expertos")
             p Especialmente son adecuadas para las empresas que brindan datos o mensajes dinámicos. Por ejemplo, las marcas que proporcionan servicios profesionales o las que cuentan con una buena cantidad de individuos que pueden usar sus redes para exponer la experiencia, habilidades y conocimientos de sus asesores y consultores, con el fin de comenzar conversaciones con prospectos y clientes sobre los desafíos que puedan tener. Este tipo de comunidad digital presenta la oportunidad para que los líderes de las empresas puedan contactarse con expertos en el área en que sea requerida la consulta o asesoría.  
@@ -125,7 +128,7 @@
             p Son las que admiten a los miembros hacer intercambio de trabajos, aportar consejos o compartir experiencias sobre un determinado tema que sea de interés profesional. Se sugiere que el contenido a compartir sea totalmente avanzado como para captar la atención de los expertos, pero que también sea agradable para los novatos.
 
           .row(titulo="Comunidades de interés")
-            p Su objetivo es compartir temas de interés común, como, por ejemplo, hobbies o también marcas específicas. Por lo general, intenta crear dinámicas entretenidas con contenido seductor que pueda divertir a los miembros. Compartir vídeos es una forma eficaz para motivar a los demás para que también lo hagan; también se pueden crear grupos de discusión digital para suscitar la interacción.
+            p Su objetivo es compartir temas de interés común, como, por ejemplo, #[i hobbies] o también marcas específicas. Por lo general, intenta crear dinámicas entretenidas con contenido seductor que pueda divertir a los miembros. Compartir vídeos es una forma eficaz para motivar a los demás para que también lo hagan; también se pueden crear grupos de discusión digital para suscitar la interacción.
   
           .row(titulo="Comunidades de apoyo")
             p Busca que los miembros proporcionen sugerencias sobre un producto a los demás individuos. Incluso, se usan para disminuir los gastos de servicio al cliente por parte de las empresas. 
@@ -145,7 +148,7 @@
       h2 2.3	Estructura
 
     .row.justify-content-center.my-5
-      p El funcionamiento y la jerarquía son similares a los de una comunidad normal, la diferencia se encuentra en el protocolo comunicacional y en las herramientas para gestionar el ambiente digital que la web pone a disposición de las comunidades virtuales para establecer los roles de los miembros. 
+      p El funcionamiento y la jerarquía son similares a los de una comunidad normal, la diferencia se encuentra en el protocolo comunicacional y en las herramientas para gestionar el ambiente digital que la #[i web] pone a disposición de las comunidades virtuales para establecer los roles de los miembros. 
       p En el siguiente video se presenta la estructura y elementos que definen una comunidad virtual.
 
     .row.my-5
@@ -168,7 +171,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img9.png', alt='Texto que describa la imagen')
               .col-md-6
-                p.mt-5 Toda comunidad tiene reglas y roles. Pueden tener recompensas como pasar de contribuyente a moderador, una insignia por ser buen participante o incluso castigos como, por ejemplo, se expulsado de la comunidad.
+                p.mt-5 Toda comunidad tiene reglas y roles. Pueden tener recompensas como pasar de contribuyente a moderador, una insignia por ser buen participante o incluso castigos como, por ejemplo, ser expulsado de la comunidad.
               
           .py-3.py-md-4(titulo="Protocolo común").p-5
             .row
@@ -192,7 +195,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img12.png', alt='Texto que describa la imagen')
               .col-md-6
-                p.mt-5 Un miembro puede afiliarse de manera voluntaria, sin particularidades determinadas, así como también a través de un requerimiento especial según sea el requisito de la comunidad, como, por ejemplo, demostrar que es fanático de una banda de rock, para aceptarlo como miembro.
+                p.mt-5 Un miembro puede afiliarse de manera voluntaria, sin particularidades determinadas, así como también a través de un requerimiento especial según sea el requisito de la comunidad, como, por ejemplo, demostrar que es fanático de una banda de #[i rock], para aceptarlo como miembro.
             
     separador
 
@@ -216,14 +219,14 @@
                   img(src='@/assets/curso/temas/tema2/img14.png', alt='Texto que describa la imagen')          
             #t_2_5
             h3.text-center.mt-5 2.5 Usuarios de comunidades virtuales
-            p.text-center Los perfiles de usuarios de las diferentes comunidades virtuales son variado, entre ellos se identifican miembros con diversos roles, como por ejemplo, el administrador, el líder de opinión, el hiperconectado, el cliente exigente, el troll, el spamer, el caza-concurso, entre otros, cada uno con con características diferenciadoras dentro de la comunidad. 
+            p.text-center Los perfiles de usuarios de las diferentes comunidades virtuales son variado, entre ellos se identifican miembros con diversos roles, como por ejemplo, el administrador, el líder de opinión, el hiperconectado, el cliente exigente, el #[i troll], el #[i spamer], el caza-concurso, entre otros, cada uno con con características diferenciadoras dentro de la comunidad. 
 
     .row.justify-content-center.my-5
       .col-lg-6.my-3
         .cajon.color-acento-contenido.p-3
           p Para ampliar revise el #[strong Anexo 4. Comunidades virtuales,] en la sección #[strong funciones de una comunidad virtual,] donde se explican dichas funciones.
           .row
-            .col-lg-6
+            .col-lg-6.mb-4
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-4_comunidades_virtuales.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
@@ -246,7 +249,7 @@
     #t_2_6
 
     .titulo-segundo.color-acento-contenido.my-5
-      h2 2.6. Cómo crear una comunidad virtual
+      h2 2.6 Cómo crear una comunidad virtual
 
     .row.justify-content-center.my-5
       
@@ -270,16 +273,16 @@
 
     #t_2_7
     .titulo-segundo.color-acento-contenido.my-5
-      h2 2.7 La Net etiqueta
+      h2 2.7 La #[i Net] etiqueta
 
     .row.justify-content-center.my-5
-      p.my-5 A continuación, revise el concepto de net etiqueta desde la mirada de Fue Shea.
+      p.my-5 A continuación, revise el concepto de #[i net] etiqueta desde la mirada de Fue Shea.
       .col-lg-4.my-3
         .tarjeta.tarjeta-slide.arriba.color-verde(@mouseover="indicadorTarjetaSlide = false").tarjeta-animada
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              p #[strong Fue Shea (1994)] quien se encargó de definir el término net etiqueta, netiqueta o etiqueta en la red y que ha servido para tener el concepto como base hasta la actualidad. 
+              p #[strong Fue Shea (1994)] quien se encargó de definir el término #[i net] etiqueta, netiqueta o etiqueta en la #[i red] y que ha servido para tener el concepto como base hasta la actualidad. 
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img16.png')})`}")
 
       .col-lg-4.my-3
@@ -287,7 +290,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-3
-              p Ella lo definió lo precisa como un protocolo que se usa para las comunicaciones en internet, es decir, son las normas que rigen todo proceso comunicativo desarrollado de manera digital a través de foros, chat, correo electrónico, redes sociales y comunidades virtuales, entre otros, las cuales son impuestas por alguno de los líderes de la comunidad virtual. 
+              p Ella lo definió lo precisa como un protocolo que se usa para las comunicaciones en #[i internet], es decir, son las normas que rigen todo proceso comunicativo desarrollado de manera digital a través de foros, #[i chat], correo electrónico, redes sociales y comunidades virtuales, entre otros, las cuales son impuestas por alguno de los líderes de la comunidad virtual. 
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img17.png')})`}")
 
       .col-lg-4.my-3
@@ -295,7 +298,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              p Esto quiere decir que el término net etiqueta reúne una serie de reglas que ayudan a mejorar el comportamiento online.
+              p Esto quiere decir que el término #[i net] etiqueta reúne una serie de reglas que ayudan a mejorar el comportamiento #[i online].
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img18.png')})`}")
 
     .row.my-5

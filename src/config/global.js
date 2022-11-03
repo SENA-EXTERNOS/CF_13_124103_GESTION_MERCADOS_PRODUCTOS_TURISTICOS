@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Perfiles de audiencia y <br>comunidad virtual',
     descripcionCurso:
-      'Este componente formativo aborda temas relacionados con la perfilación de audiencias considerando técnicas, cultura de masas, segmentación, gestión de clientes, igualmente presenta aspectos para la gestión de comunidades virtuales, el marketing digital y los patrones de conducta.',
+      'Este componente formativo aborda temas relacionados con la perfilación de audiencias considerando técnicas, cultura de masas, segmentación, gestión de clientes, igualmente presenta aspectos para la gestión de comunidades virtuales, el <i>marketing</i> digital y los patrones de conducta.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -128,25 +128,25 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Marketing digital',
+        titulo: '<i>Marketing</i> digital',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'THerramientas',
+            titulo: 'Herramientas',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'THerramientas',
+            titulo: 'Técnicas',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'THerramientas',
+            titulo: 'Estrategias',
             hash: 't_3_3',
           },
         ],
@@ -155,7 +155,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Audiencia ',
+        titulo: 'Patrones de conducta',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -246,23 +246,23 @@ export default {
       tema: 'Patrones de conducta',
       referencia:
         'Cinconoticias (2022). Patrones de conducta: qué son, cómo se originan, tipos y ejemplos de patrones de comportamiento en psicología.',
-      tipo: 'Sitio web',
+      tipo: 'Sitio <i>web</i>',
       link: 'https://www.cinconoticias.com/patrones-de-conducta/',
     },
   ],
   glosario: [
     {
-      termino: 'Analítica web',
+      termino: 'Analítica <i>web</i>',
       significado:
-        'conjunto de técnicas que dan la posibilidad de recopilar, analizar y reportar datos estadísticos de la web para comprender y  optimizar su uso.',
+        'conjunto de técnicas que dan la posibilidad de recopilar, analizar y reportar datos estadísticos de la <i>web</i> para comprender y  optimizar su uso.',
     },
     {
       termino: 'Audiencia',
       significado:
-        'individuos que reciben información con medios de comunicación masivos, como, por ejemplo la televisión, la prensa, la radio, y el cine; o que tienen interacción con medios de comunicación alternativos como redes sociales, blogs, sitio web, chat y correo electrónico, entre otros.',
+        'individuos que reciben información con medios de comunicación masivos, como, por ejemplo la televisión, la prensa, la radio, y el cine; o que tienen interacción con medios de comunicación alternativos como redes sociales, <i>blogs</i>, sitio <i>web</i>, <i>chat</i> y correo electrónico, entre otros.',
     },
     {
-      termino: 'Buyer persona',
+      termino: '<i>Buyer</i> persona',
       significado: 'es el cliente ideal de una marca.',
     },
     {
@@ -276,14 +276,14 @@ export default {
         'es el resultado de la percepción del cliente luego de una interacción física, emocional, racional o psicológica con una marca.',
     },
     {
-      termino: 'Feedback',
+      termino: '<i>Feedback</i>',
       significado:
         'es la opinión que tiene el público objetivo, o posibles clientes de una marca, resultado de una campaña publicitaria o esfuerzo publicitario.',
     },
     {
-      termino: 'Net etiqueta',
+      termino: '<i>Net</i> etiqueta',
       significado:
-        'grupo de normas de conducta general en la web y que son un ajuste de las reglas de etiqueta del mundo físico al digital.',
+        'grupo de normas de conducta general en la <i>web</i> y que son un ajuste de las reglas de etiqueta del mundo físico al digital.',
     },
     {
       termino: 'Patrón de comportamiento',
@@ -291,7 +291,7 @@ export default {
         'corresponden a normas determinadas, que sirven de guía para orientar la respuesta o acción que tiene un individuo ante situaciones o circunstancias concretas.',
     },
     {
-      termino: 'Spamer',
+      termino: '<i>Spamer</i>',
       significado:
         'miembro de una comunidad virtual que publica de manera masiva información que no tiene nada que ver con la filosofía de la plataforma.',
     },
@@ -377,7 +377,7 @@ export default {
       },
       {
         nombre: 'Nombre',
-        cargo: 'Diseño web',
+        cargo: 'Diseño <i>web</i>',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
