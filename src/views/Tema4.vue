@@ -91,7 +91,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-4
-              p #[strong Casanova Ríspoli (2009) ] menciona que en la actualidad hay una saturación publicitaria y todos los días nacen más formas de impactar al público objetivo en la #[i web]. Esta situación no le ayuda a la publicidad como tal porque el cliente se ve sometido a un exceso de información.
+              p #[strong Formas de impactar:] Casanova Ríspoli (2009) menciona que en la actualidad hay una saturación publicitaria y todos los días nacen más formas de impactar al público objetivo en la #[i web]. Esta situación no le ayuda a la publicidad como tal porque el cliente se ve sometido a un exceso de información.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img5.png')})`}")
 
       .col-lg-5.my-3
