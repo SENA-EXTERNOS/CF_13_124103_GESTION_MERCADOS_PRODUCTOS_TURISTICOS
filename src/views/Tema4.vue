@@ -83,7 +83,7 @@
     #t_4_3
 
     .titulo-segundo.color-acento-contenido.my-5
-      h2 4.3. Herramientas para medir el comportamiento
+      h2 4.3 Herramientas para medir el comportamiento
 
     .row.justify-content-center.my-5
       .col-lg-5.my-3
