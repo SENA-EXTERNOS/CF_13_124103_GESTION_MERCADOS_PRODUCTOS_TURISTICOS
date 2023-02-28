@@ -11,7 +11,7 @@
       .col-lg-6
         p Saavedra Llamas (2016) explica que el concepto de audiencia en la actualidad conlleva a pensar en una persona que hace parte de un colectivo que está mediado por las Tecnologías de la Información y la Comunicación (TIC), y en donde se pueden encontrar roles desde los más activos hasta los más pasivos.        
         .cajon.color-acento-contenido.p-4
-          p Por su lado, el concepto de “audiencia meta” está relacionado con la función del canal en donde se comunica o se promociona un producto (bien o servicio).
+          p Por su lado, el concepto de “audiencia meta” está relacionado con la función del canal en donde se comunica o se promociona un producto.
       .col-lg-6.my-3
         figure
           img(src="@/assets/curso/temas/tema1/img1.png", alt="alt")
