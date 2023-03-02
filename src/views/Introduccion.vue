@@ -14,8 +14,8 @@
         figure
           img(src="@/assets/curso/temas/introduccion/img1.png", alt="alt")
       .col-lg-7
-        p Estimado aprendiz. Bienvenido a este recurso educativo con el cual aprenderá sobre la importancia de los perfiles de audiencia y las comunidades virtuales, el recurso describe la tipología y las diversas técnicas que se utilizan para la identificación de audiencias en relación con la cultura de las masas y la gestión de clientes, adicionalmente presenta aspectos que caracterizan una comunidad virtual y la netiqueta a utilizar. Describe técnicas, herramientas y estrategias de #[i marketing] digital, patrones de conducta y herramientas para medir el comportamiento
-        p En el siguiente video conocerá de forma general, la temática que estudiará a lo largo del componente formativo.#[strong ¡Todo lo mejor en este proceso de aprendizaje!]
+        p Estimado aprendiz, bienvenido a este recurso educativo, con el cual aprenderá sobre la importancia de los perfiles de audiencia y las comunidades virtuales, el recurso describe la tipología y las diversas técnicas que se utilizan para la identificación de audiencias en relación con la cultura de las masas y la gestión de clientes, adicionalmente presenta aspectos que caracterizan una comunidad virtual y la etiqueta a utilizar. Describe técnicas, herramientas y estrategias de <i>marketing</i> digital, patrones de conducta y herramientas para medir el comportamiento. 
+        p En el siguiente video conocerá de forma general, la temática que estudiará a lo largo del componente formativo.
 
     .row.my-5
       figure

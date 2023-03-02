@@ -20,7 +20,7 @@
     .row.justify-content-center.my-5
       .col-lg-9.mt-5
         p Desde la psicología, un patrón de conducta se define como un grupo de normas que ayudan a identificar el carácter de forma correcta. Son modelos diferentes que guían y orientan a un individuo a actuar de manera específica según sea la circunstancia.
-  
+        P Algunas particularidades de los patrones de conducta son: 
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Patrones de conducta")
             p Los patrones tienden a ser repetidos y a perpetuarse en el tiempo; se crean de acuerdo a las experiencias diarias de la vida. Incluso, pueden existir patrones que son el resultado de una copia o un aprendizaje de otros individuos con quienes se haya interactuado antes. 
@@ -32,18 +32,13 @@
         figure
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Texto que describa la imagen')       
 
-    separador
-
-    #t_4_1
-
-    .titulo-segundo.color-acento-contenido.my-5
-      h2 4.1 Características
+    h3.my-5 Características
 
     .row.justify-content-center.my-5
       .col-lg-8
-        p.my-4 Los patrones de conducta manifiestan modelos particulares que se integran según sean las características de la personalidad, donde se pueden incluir creencias y actitudes que emergen en momentos específicos. Los comportamientos sociales por lo general dependen de una comunicación interpersonal.
+        p.my-4 Los patrones de conducta manifiestan modelos particulares que se integran según sean las características de la personalidad, donde se pueden incluir creencias y actitudes que emergen en momentos específicos y comportamientos sociales, por lo general dependen de una comunicación interpersonal.
         .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el  #[strong Anexo 8. Patrones de conducta,] en la sección de #[strong características,] en dicho documento se amplía información.
+          p Para ampliar la información revise el <i>Anexo 8. Patrones de conducta</i>, en la sección de características, en dicho documento.
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-8_patrones_de_conducta.pdf')" target="_blank")
@@ -56,7 +51,6 @@
         figure
           img(src='@/assets/curso/temas/tema4/img3.png', alt='Texto que describa la imagen') 
 
-    separador
 
     .row.justify-content-center.my-5
       .col-lg-4     
@@ -64,12 +58,10 @@
           img(src='@/assets/curso/temas/tema4/img4.png', alt='Texto que describa la imagen') 
 
       .col-lg-8
-        #t_4_2
-        .titulo-segundo.color-acento-contenido
-          h2 4.2 Clasificación
-        p.my-4 Hay diferentes tipos de patrones de comportamiento, por eso, las clasificaciones realizadas son distintas en algunos aspectos, se encuentran por ejemplo, los patrones relacionados con la conducta social, la conducta asocial, la conducta parasocial y la conducta antisocial. 
+        h3 Clasificación de los patrones de comportamiento
+        p.my-4 Hay diferentes tipos de patrones de comportamiento, por tanto, las clasificaciones realizadas son distintas, se encuentran por ejemplo patrones relacionados con la conducta social, la conducta asocial, la conducta parasocial y la conducta antisocial. 
         .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el  #[strong Anexo 8. Patrones de conducta,] en la sección de #[strong clasificación,] en la cual se describen aspectos relacionados con estas conductas y las generaciones conocidas como #[i Baby Boomers,] Generación X, Y los #[i Millennials] y Z o #[i Centennials.]
+          p Para ampliar la información de las diferentes clasificaciones, revise el <i>Anexo 8. Patrones de conducta</i>, en la sección clasificación, en la cual se describen aspectos relacionados con estas conductas y las generaciones conocidas como Baby Boomers, Generación X, Y los Millennials y Z o Centennials.
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-8_patrones_de_conducta.pdf')" target="_blank")
@@ -78,20 +70,15 @@
                 .anexo__texto
                   p #[strong Anexo 8.] Patrones de conducta
 
-    separador
-
-    #t_4_3
-
-    .titulo-segundo.color-acento-contenido.my-5
-      h2 4.3 Herramientas para medir el comportamiento
-
+    h3.my-5 Herramientas para medir el comportamiento
+    p En la actualidad, con el exceso de competencia a nivel de marketing, es necesario conocer y hacer uso correcto de las diferentes herramientas disponibles para medir el comportamiento de los usuarios y consumidores y así poder destacar frente a los competidores, veamos algunas características con relación a esto:
     .row.justify-content-center.my-5
       .col-lg-5.my-3
         .tarjeta.tarjeta-slide.arriba.color-verde(@mouseover="indicadorTarjetaSlide = false").tarjeta-animada2
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-4
-              p #[strong Formas de impactar:] Casanova Ríspoli (2009) menciona que en la actualidad hay una saturación publicitaria y todos los días nacen más formas de impactar al público objetivo en la #[i web]. Esta situación no le ayuda a la publicidad como tal porque el cliente se ve sometido a un exceso de información.
+              p #[strong Formas de impactar:] Casanova Ríspoli (2009) menciona que en la actualidad hay una saturación publicitaria y todos los días nacen más formas de impactar al público objetivo en la web. Esta situación no le ayuda a la publicidad como tal porque el cliente se ve sometido a un exceso de información.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img5.png')})`}")
 
       .col-lg-5.my-3
@@ -99,13 +86,13 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-4
-              p #[strong Patrones de Conducta:] Esto acarrea un problema para las marcas que tienen como fin el impacto de su público objetivo. Por esta razón se han creado unas herramientas que permiten conocer los patrones de conducta del cliente y así poder brindar una mejor experiencia de navegación y de impacto visual publicitario.
+              p #[strong Patrones de Conducta:] dicha saturación se traduce como un problema para las marcas que tienen como fin el impacto de su público objetivo. Por esta razón se han creado unas herramientas que permiten conocer los patrones de conducta del cliente y así poder brindar una mejor experiencia de navegación y de impacto visual publicitario.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img6.png')})`}")
 
     .row.my-5
       .col-lg-10
         .cajon.color-acento-contenido.p-3.my-5
-          p Para ampliar revise el #[strong Anexo 9. Herramientas para medir el comportamiento,]  en la sección de #[strong herramientas para medir el comportamiento,] donde encontrará información detallada sobre estas.
+          p Para ampliar la información revise el <i>Anexo 9</i>. Herramientas para medir el comportamiento, en la sección de herramientas para medir el comportamiento, donde encontrará información detallada sobre estas. 
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-9_herramientas_medir_comportamiento.pdf')" target="_blank")
@@ -114,7 +101,7 @@
                 .anexo__texto
                   p #[strong Anexo 9.] Herramientas para medir el comportamiento
 
-      p.my-5 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo, para ello diríjase al menú principal en donde encontrará la síntesis, la actividad didáctica, material complementario, entre otros.
+      p.my-5 Estimado aprendiz, ha llegado al final de este componente formativo, recuerde explorar los demás recursos que se encuentran disponibles, para esto diríjase al menú principal en donde encontrará la síntesis, la actividad didáctica, material complementario, entre otros.
 
 
 

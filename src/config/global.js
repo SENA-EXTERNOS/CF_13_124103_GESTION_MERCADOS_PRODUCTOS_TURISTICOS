@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Perfiles de audiencia y <br>comunidad virtual',
+    componenteFormativo: 'Perfiles de audiencia y comunidad virtual',
     descripcionCurso:
       'Este componente formativo aborda temas relacionados con la perfilación de audiencias considerando técnicas, cultura de masas, segmentación, gestión de clientes, igualmente presenta aspectos para la gestión de comunidades virtuales, el <i>marketing</i> digital y los patrones de conducta.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -39,38 +39,6 @@ export default {
         numero: '1',
         titulo: 'Audiencia ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Tipos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Técnicas de identificación de audiencia',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Perfiles de audiencia',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'La cultura de masas',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'La gestión de clientes',
-            hash: 't_1_5',
-          },
-        ],
       },
 
       {
@@ -79,50 +47,6 @@ export default {
         numero: '2',
         titulo: 'Comunidad virtual ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Características',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Tipos',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Estructura',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Funciones',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Usuarios de comunidades virtuales',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Cómo crear una comunidad virtual',
-            hash: 't_2_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.7',
-            titulo: 'La Net etiqueta',
-            hash: 't_2_7',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -130,26 +54,6 @@ export default {
         numero: '3',
         titulo: '<i>Marketing</i> digital',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Herramientas',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Técnicas',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Estrategias',
-            hash: 't_3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -157,26 +61,6 @@ export default {
         numero: '4',
         titulo: 'Patrones de conducta',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Características',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Clasificación',
-            hash: 't_4_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Herramientas para medir el comportamiento',
-            hash: 't_4_3',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -288,7 +172,7 @@ export default {
     {
       termino: 'Patrón de comportamiento',
       significado:
-        'corresponden a normas determinadas, que sirven de guía para orientar la respuesta o acción que tiene un individuo ante situaciones o circunstancias concretas.',
+        'corresponde a normas determinadas que sirven de guía para orientar la respuesta o acción que tiene un individuo ante situaciones o circunstancias concretas.',
     },
     {
       termino: '<i>Spamer</i>',
@@ -296,60 +180,48 @@ export default {
         'miembro de una comunidad virtual que publica de manera masiva información que no tiene nada que ver con la filosofía de la plataforma.',
     },
     {
-      termino: 'Troll',
+      termino: '<i>Troll</i>',
       significado:
         'individuo que aprovecha una comunidad virtual para hacer comentarios que generen controversia y fomentan el enfrentamiento entre los demás y tiene como fin molestar y captar la atención.',
     },
   ],
   referencias: [
     {
-      referencia:
-        'Libro | Abruzzese, A. (2004). <i>Cultura de masas. Madrid:</i> CIC.',
-      link: '',
+      referencia: 'Abruzzese, A. (2004). <i>Cultura de masas. Madrid:</i> CIC.',
     },
     {
       referencia:
-        'Libro | Benitez Márquez, M. (2020). <i>Gestión de comunidades virtuales.</i> España: Editorial eLearning S.L.',
-      link: '',
+        'Benitez Márquez, M. (2020). <i>Gestión de comunidades virtuales.</i> España: Editorial eLearning S.L.',
     },
     {
       referencia:
-        'Libro | Casanova Ríspoli, E. (2009). <i>Bioética, Cultura Y Patrones De Conducta.</i> Bogotá: Universidad de la Sabana.',
-      link: '',
+        'Casanova Ríspoli, E. (2009). <i>Bioética, Cultura Y Patrones De Conducta.</i> Bogotá: Universidad de la Sabana.',
     },
     {
       referencia:
-        'Libro | Kotler, P., & Keller, K. L. (2012). <i>Dirección de marketing.</i> México: Pearson.',
-      link: '',
+        'Kotler, P., & Keller, K. L. (2012). <i>Dirección de marketing.</i> México: Pearson.',
+    },
+    {
+      referencia: 'Mitchell, J. (2012). <i>Abrace a sus clientes.</i> Granica.',
     },
     {
       referencia:
-        'Libro | Mitchell, J. (2012). <i>Abrace a sus clientes.</i> Granica.',
-      link: '',
+        'Ponjuán, G. (2007). <i>Gestión de la información.</i> Gijón: Ediciones Trea.',
     },
     {
       referencia:
-        'Libro | Ponjuán, G. (2007). <i>Gestión de la información.</i> Gijón: Ediciones Trea.',
-      link: '',
+        'Rodríguez, I., Montes, G., & López, Ó. y. (2006). <i>Principios y estrategias de marketing.</i> Barcelona: Editorial UOC.',
     },
     {
       referencia:
-        'Libro | Rodríguez, I., Montes, G., & López, Ó. y. (2006). <i>Principios y estrategias de marketing.</i> Barcelona: Editorial UOC.',
-      link: '',
+        'Saavedra Llamas, M. (2016). <i>Audiencia social : Estrategias de comunicación para medios y marcas.</i> Madrid: Primo.',
+    },
+    {
+      referencia: 'Shea, V. (1994). <i>Netiquette.</i> Albion Books.',
     },
     {
       referencia:
-        'Libro | Saavedra Llamas, M. (2016). <i>Audiencia social : Estrategias de comunicación para medios y marcas.</i> Madrid: Primo.',
-      link: '',
-    },
-    {
-      referencia: 'Libro | Shea, V. (1994). <i>Netiquette.</i> Albion Books.',
-      link: '',
-    },
-    {
-      referencia:
-        'Libro | Xie, S., & Min, Y. (2019). <i>Marketing Digital: Navegando En Aguas Digitales. Sumérgete Conmigo.</i> Bogotá: Ediciones de la U.',
-      link: '',
+        'Xie, S., & Min, Y. (2019). <i>Marketing Digital: Navegando En Aguas Digitales. Sumérgete Conmigo.</i> Bogotá: Ediciones de la U.',
     },
   ],
   creditos: {
