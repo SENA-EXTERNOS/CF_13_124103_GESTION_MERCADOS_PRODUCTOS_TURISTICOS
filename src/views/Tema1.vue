@@ -105,29 +105,26 @@
           p <b>Ejemplo:</b> cuando un individuo escucha de forma reiterada sobre una marca de comidas rápidas muy popular en su ciudad a través de una cuña radial. 
 
 
-        .tarjeta.color-acento-botones.p-3(x="21%" y="43%" numero="2")
+        .tarjeta.color-acento-botones.p-3(x="21%" y="43%" numero="5")
+          h5.mb-2 Audiencia util
+          p Individuos que realmente se interesan en realizar una acción de compra del producto mientras la campaña publicitaria aún se encuentra al aire. Su análisis de métricas ayuda a saber si la campaña fue efectiva o no. 
+
+        .tarjeta.color-acento-botones.p-3(x="79%" y="44%" numero="2")
           h5.mb-2 Audiencia potencial
           p Individuos que pueden comprar los productos que una marca exhibe en su publicidad. Es decir, hacen parte de la audiencia comercial y además pueden estar predispuestos a realizar una compra. 
           p <b>Ejemplo:</b> cuando el individuo después de escuchar las cuñas radiales decide ir a comer en la tienda de comidas rápidas. 
 
-
-        .tarjeta.color-acento-botones.p-3(x="79%" y="44%" numero="3")
-          h5.mb-2 Audiencia primaria
-          p Individuos que hacen parte de un grupo objetivo al que va dirigido el mensaje publicitario, independientemente de que compren o no el producto. Son el resultado de un estudio en el que se investigan y clasifican los gustos, deseos y tendencias de los mismos para diseñar una campaña que llame su atención.
-          p <b>Ejemplo:</b> la cuña radial de la tienda de comidas rápidas está dirigida a jóvenes de aproximadamente 25 años de edad, que les gusta cuidar de su apariencia física, ubicados en el sector del centro de la ciudad, que quieren compartir con sus amigos o familiares un rato agradable comiendo productos vegetarianos. 
-
-        .tarjeta.color-acento-botones.p-3(x="25%" y="14%" numero="4")
-          h5.mb-2 Audiencia real
-          p Grupo de individuos que pudie   ron ver o escuchar el mensaje publicitario mientras estuvo al aire en los diferentes canales de comunicación. Sirve para calcular la fuerza de atracción que tienen los distintos medios de comunicación.
-
-        .tarjeta.color-acento-botones.p-3(x="76%" y="67%" numero="5")
-          h5.mb-2 Audiencia util
-          p Individuos que realmente se interesan en realizar una acción de compra del producto mientras la campaña publicitaria aún se encuentra al aire. Su análisis de métricas ayuda a saber si la campaña fue efectiva o no. 
-
-        .tarjeta.color-acento-botones.p-3(x="22%" y="74%" numero="6")
+        .tarjeta.color-acento-botones.p-3(x="25%" y="14%" numero="6")
           h5.mb-2 Audiencia
           p En la actualidad, los canales digitales como las redes sociales, el correo electrónico, el chat, el #[i blog], el sitio #[i web], etc., aportan mejores métricas o indicadores de gestión sobre la audiencia y en sí, sobre lo realizado a nivel publicitario en Internet. 
 
+        .tarjeta.color-acento-botones.p-3(x="76%" y="67%" numero="3")
+          h5.mb-2 Audiencia primaria
+          p Individuos que hacen parte de un grupo objetivo al que va dirigido el mensaje publicitario, independientemente de que compren o no el producto. Son el resultado de un estudio en el que se investigan y clasifican los gustos, deseos y tendencias de los mismos para diseñar una campaña que llame su atención.
+          p <b>Ejemplo:</b> la cuña radial de la tienda de comidas rápidas está dirigida a jóvenes de aproximadamente 25 años de edad, que les gusta cuidar de su apariencia física, ubicados en el sector del centro de la ciudad, que quieren compartir con sus amigos o familiares un rato agradable comiendo productos vegetarianos.
+        .tarjeta.color-acento-botones.p-3(x="22%" y="74%" numero="4")
+          h5.mb-2 Audiencia real
+          p Grupo de individuos que pudie   ron ver o escuchar el mensaje publicitario mientras estuvo al aire en los diferentes canales de comunicación. Sirve para calcular la fuerza de atracción que tienen los distintos medios de comunicación.
     h3.my-5 Técnicas de identificación de audiencia
 
     .row.justify-content-center.my-5
