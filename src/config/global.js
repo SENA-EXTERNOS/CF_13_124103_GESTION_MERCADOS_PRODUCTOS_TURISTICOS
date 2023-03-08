@@ -107,21 +107,21 @@ export default {
     {
       tema: 'Audiencia',
       referencia:
-        'David Soler Freixas [David Soler Freixas]. 2019, 27 de abril. Qué es audiencia. ',
+        'David Soler Freixas. (2019). <i>Qué es audiencia</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=j16nOBQahRI ',
     },
     {
       tema: 'Comunidad virtual',
       referencia:
-        'Ana Laura López [Ana Laura López]. 2021, 9 de junio. Estructura y dinámica de la comunidad virtual. ',
+        'Ana Laura López. (2021). <i>Estructura y dinámica de la comunidad virtual</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=K_vATJKWltc',
     },
     {
       tema: 'Marketing digital',
       referencia:
-        'Núñez Cudriz, Enrique Carlos; Miranda Corrales, Jesús David (2020). El marketing digital como un elemento de apoyo estratégico a las organizaciones.',
+        'Núñez Cudriz, E. y Miranda Corrales, J. (2020). <i>El marketing digital como un elemento de apoyo estratégico a las organizaciones</i>.',
       tipo: 'Artículo',
       link:
         'https://www.redalyc.org/journal/4096/409663283006/409663283006.pdf',
@@ -129,7 +129,7 @@ export default {
     {
       tema: 'Patrones de conducta',
       referencia:
-        'Cinconoticias (2022). Patrones de conducta: qué son, cómo se originan, tipos y ejemplos de patrones de comportamiento en psicología.',
+        'Cinconoticias. (2022). <i>Patrones de conducta: qué son, cómo se originan, tipos y ejemplos de patrones de comportamiento en psicología</i>.',
       tipo: 'Sitio <i>web</i>',
       link: 'https://www.cinconoticias.com/patrones-de-conducta/',
     },
@@ -187,41 +187,41 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Abruzzese, A. (2004). <i>Cultura de masas. Madrid:</i> CIC.',
+      referencia: 'Abruzzese, A. (2004). <i>Cultura de masas</i>. CIC.',
     },
     {
       referencia:
-        'Benitez Márquez, M. (2020). <i>Gestión de comunidades virtuales.</i> España: Editorial eLearning S.L.',
+        'Benitez Márquez, M. (2020). <i>Gestión de comunidades virtuales</i>. Editorial eLearning S.L.',
     },
     {
       referencia:
-        'Casanova Ríspoli, E. (2009). <i>Bioética, Cultura Y Patrones De Conducta.</i> Bogotá: Universidad de la Sabana.',
+        'Casanova Ríspoli, E. (2009). <i>Bioética, Cultura Y Patrones De Conducta</i>. Universidad de la Sabana.',
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2012). <i>Dirección de marketing.</i> México: Pearson.',
+        'Kotler, P. & Keller, K. L. (2012). <i>Dirección de marketing</i>. Pearson.',
     },
     {
-      referencia: 'Mitchell, J. (2012). <i>Abrace a sus clientes.</i> Granica.',
-    },
-    {
-      referencia:
-        'Ponjuán, G. (2007). <i>Gestión de la información.</i> Gijón: Ediciones Trea.',
+      referencia: 'Mitchell, J. (2012). <i>Abrace a sus clientes</i>. Granica.',
     },
     {
       referencia:
-        'Rodríguez, I., Montes, G., & López, Ó. y. (2006). <i>Principios y estrategias de marketing.</i> Barcelona: Editorial UOC.',
+        'Ponjuán, G. (2007). <i>Gestión de la información</i>. Ediciones Trea.',
     },
     {
       referencia:
-        'Saavedra Llamas, M. (2016). <i>Audiencia social : Estrategias de comunicación para medios y marcas.</i> Madrid: Primo.',
-    },
-    {
-      referencia: 'Shea, V. (1994). <i>Netiquette.</i> Albion Books.',
+        'Rodríguez, I., Montes, G. & López, Ó. (2006). <i>Principios y estrategias de marketing</i>. Editorial UOC.',
     },
     {
       referencia:
-        'Xie, S., & Min, Y. (2019). <i>Marketing Digital: Navegando En Aguas Digitales. Sumérgete Conmigo.</i> Bogotá: Ediciones de la U.',
+        'Saavedra Llamas, M. (2016). <i>Audiencia social : Estrategias de comunicación para medios y marcas</i>. Primo.',
+    },
+    {
+      referencia: 'Shea, V. (1994). <i>Netiquette</i>. Albion Books.',
+    },
+    {
+      referencia:
+        'Xie, S. & Min, Y. (2019). <i>Marketing Digital: Navegando En Aguas Digitales. Sumérgete Conmigo</i>. Ediciones de la U.',
     },
   ],
   creditos: {

@@ -62,7 +62,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema2/img4.png', alt='Texto que describa la imagen').img-2-3-4
                 .col-lg-8.texto-tarjeta
-                  h5 Sin límites de tiempo ni geografía
+                  h4 Sin límites de tiempo ni geografía
                   p Es una de las características más importantes de este tipo de comunidades porque no hay limitación en tiempo ni espacio geográfico. Los individuos de una misma comunidad pueden interactuar compartiendo ideas, opiniones, noticias, datos, etc., sin importar en qué momento lo hagan, a pesar de la diferencia horaria que puedan tener, ni en qué lugar se encuentren.
 
             .cajon.tarjeta--rosa2.p-4
@@ -80,7 +80,7 @@
     h3.my-5 Tipos de comunidades virtuales
 
 
-    p Actualmente existen varias plataformas donde se pueden constituir comunidades virtuales, como, por ejemplo, redes sociales, foros de discusión, correo electrónico, grupos de noticias, videoconferencias, chat, sistemas peer to peer (P2P), entre otras. 
+    p Actualmente existen varias plataformas donde se pueden constituir comunidades virtuales, como, por ejemplo, redes sociales, foros de discusión, correo electrónico, grupos de noticias, videoconferencias, chat, sistemas<i> peer to peer</i> (P2P), entre otras. 
 
     p Entre los diferentes tipos de comunidades virtuales se encuentran:     
 
@@ -92,7 +92,7 @@
       .col-lg-7
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Comunidades sociales")
-            p Es uno de los tipos más comunes. Incluye redes sociales como <i>Facebook</i>, <i>Instagram</i>, <i>Twitter</i>, <i>Tinder</i>, <i>Pinterest</i>, <i>Tick Tock</i>,entre muchas otras. Por lo general las marcas le dan uso a este tipo de comunidad para fines comerciales, desarrollando estrategias publicitarias y de <i>marketing</i>, difundiendo noticias, promociones y datos de interés para los miembros, llamados seguidores o fanáticos. Esto ayuda a la amplificación de la marca y a su reconocimiento con respecto a la audiencia. También sirven para hacer <i>Benchmarking</i>, es decir, rastrear, estudiar y compararse con la competencia para comprender mucho mejor sobre la creación de estrategias usadas en la actualidad.    
+            p Es uno de los tipos más comunes. Incluye redes sociales como Facebook, Instagram, Twitter, Tinder, Pinterest, Tick Tock,entre muchas otras. Por lo general las marcas le dan uso a este tipo de comunidad para fines comerciales, desarrollando estrategias publicitarias y de <i>marketing</i>, difundiendo noticias, promociones y datos de interés para los miembros, llamados seguidores o fanáticos. Esto ayuda a la amplificación de la marca y a su reconocimiento con respecto a la audiencia. También sirven para hacer <i>Benchmarking</i>, es decir, rastrear, estudiar y compararse con la competencia para comprender mucho mejor sobre la creación de estrategias usadas en la actualidad.    
 
           .row(titulo="Comunidades de aprendizaje y conocimiento")
             p Usadas por marcas que intercambian aprendizaje y conocimiento para ayudar a poseer una conexión mucho más grande con la audiencia, lo que mejora la imagen de una empresa. Al utilizar una plataforma digital de confianza, las marcas comparten saberes, datos investigativos, ciencia, tecnología y muchos más temas exclusivos, que sean de interés para los miembros.
@@ -134,7 +134,7 @@
     .row.justify-content-center.my-5
       .col-lg-10
         .cajon.color-acento-contenido.p-3
-          p Las diferentes comunidades virtuales tienen entre sí una serie de bases comunes, como se verá a continuación:
+          p Las comunidades virtuales, por su naturaleza, tienen unas funciones específicas además de ciertos tipos de usuarios:
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -196,20 +196,9 @@
     .row.justify-content-center.my-5
       .col-lg-6.my-3
         .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el <b>Anexo 4</b>. Comunidades virtuales, en la sección <b>funciones de una comunidad virtual</b>,  donde se explican dichas funciones.  
+          p.mb-4 Para ampliar información revise el <b>Anexo 4. Comunidades virtuales</b>.  
           .row
             .col-lg-6.mb-4
-              a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-4_comunidades_virtuales.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p #[strong Anexo 4.] Comunidades virtuales
-
-      .col-lg-6.my-3
-        .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el <b>Anexo 4</b>. Comunidades virtuales, en la sección <b>usuarios de comunidades virtuales</b>, donde se describe cada uno de los perfiles que participan en una comunidad virtual.
-          .row
-            .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-4_comunidades_virtuales.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
@@ -224,7 +213,7 @@
         p El proceso y las etapas para la creación de una comunidad virtual pueden variar de una a otra, en este recurso se presentan cinco pasos para su creación, iniciando con la definición de un tema de interés, establecer su duración y establecer igualmente el enfoque de investigación; necesariamente existe una fase relacionada con el reclutamiento de miembros y la definición del tamaño de la comunidad.
         
         .cajon.color-acento-contenido.p-3.my-5
-          p Para ampliar la información revise el <i>Anexo 5. Cómo crear comunidades virtuales</i>, se precisan las actividades a desarrollar en cada una de las fases requeridas para crear una comunidad virtual.
+          p Para ampliar la información revise el <b>Anexo 5. Cómo crear comunidades virtuales</b>, se precisan las actividades a desarrollar en cada una de las fases requeridas para crear una comunidad virtual.
 
           a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-5_como_crear_comunidades_virtuales.pdf')" target="_blank")
             .anexo__icono
@@ -263,14 +252,6 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               p Esto quiere decir que el término net etiqueta reúne una serie de reglas que ayudan a mejorar el comportamiento <i>online.</i>
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img18.png')})`}")
-
-    .row.my-5
-      .col-lg-9
-        a.anexo.mb-4.mb-lg-0(href="https://drive.google.com/file/d/1xEjNtANIr0dmHp1UY37-LWusSXArkMnN/view?usp=sharing" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p Para ampliar información sobre la importancia de la Net etiqueta, se invita a revisar el siguiente video
 
     .row.my-5
       .col-lg-10

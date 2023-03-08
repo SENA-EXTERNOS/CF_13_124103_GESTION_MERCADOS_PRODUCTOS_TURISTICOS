@@ -84,13 +84,14 @@
       .col-lg-7
         .tarjeta--rosa.p-3
           p Se entiende que la audiencia es el grupo de individuos que se contactan o se unen a través de un medio de comunicación específico, un soporte o incluso un evento. Para captar a los individuos indicados, las marcas se deben esforzar en brindar servicios que satisfagan las necesidades del cliente, de motivar a cada persona con información que vaya de acuerdo con sus deseos personales.
-        h5.mt-3 ¿Cómo se relacionan la campaña publicitaria y la audiencia?
+        h5.mt-4 ¿Cómo se relacionan la campaña publicitaria y la audiencia?
         p.my-3 En cada campaña publicitaria se debe realizar previamente un estudio de mercado con el objetivo de saber cuáles son las preferencias y gustos de los clientes para luego determinar los canales de comunicación más acertados según el contexto de la audiencia para hacer la transmisión de un mensaje.
 
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema1/img7.png', alt='Texto que describa la imagen')      
 
+    p A continuación conoceremos los diferentes tipos de audiencia, sus definiciones y algunos ejemplos:
 
     .row.justify-content-center.my-5
       ImagenInfografica.color-acento-botones
@@ -99,28 +100,28 @@
             img(src='@/assets/curso/temas/tema1/img8.png', alt='Texto que describa la imagen')
 
         .tarjeta.color-acento-botones.p-3(x="73%" y="15%" numero="1")
-          h5.mb-2 Audiencia Comercial
+          h5.mb-2 Audiencia comercial
           p Individuos que conocen distintas marcas o productos a través de medios de comunicación masivos como son la televisión, la radio, la prensa, las revistas e incluso internet. 
           p <b>Ejemplo:</b> cuando un individuo escucha de forma reiterada sobre una marca de comidas rápidas muy popular en su ciudad a través de una cuña radial. 
 
 
         .tarjeta.color-acento-botones.p-3(x="21%" y="43%" numero="2")
-          h5.mb-2 Audiencia Potencial
+          h5.mb-2 Audiencia potencial
           p Individuos que pueden comprar los productos que una marca exhibe en su publicidad. Es decir, hacen parte de la audiencia comercial y además pueden estar predispuestos a realizar una compra. 
           p <b>Ejemplo:</b> cuando el individuo después de escuchar las cuñas radiales decide ir a comer en la tienda de comidas rápidas. 
 
 
         .tarjeta.color-acento-botones.p-3(x="79%" y="44%" numero="3")
-          h5.mb-2 Audiencia Primaria
+          h5.mb-2 Audiencia primaria
           p Individuos que hacen parte de un grupo objetivo al que va dirigido el mensaje publicitario, independientemente de que compren o no el producto. Son el resultado de un estudio en el que se investigan y clasifican los gustos, deseos y tendencias de los mismos para diseñar una campaña que llame su atención.
           p <b>Ejemplo:</b> la cuña radial de la tienda de comidas rápidas está dirigida a jóvenes de aproximadamente 25 años de edad, que les gusta cuidar de su apariencia física, ubicados en el sector del centro de la ciudad, que quieren compartir con sus amigos o familiares un rato agradable comiendo productos vegetarianos. 
 
         .tarjeta.color-acento-botones.p-3(x="25%" y="14%" numero="4")
-          h5.mb-2 Audiencia Real
+          h5.mb-2 Audiencia real
           p Grupo de individuos que pudie   ron ver o escuchar el mensaje publicitario mientras estuvo al aire en los diferentes canales de comunicación. Sirve para calcular la fuerza de atracción que tienen los distintos medios de comunicación.
 
         .tarjeta.color-acento-botones.p-3(x="76%" y="67%" numero="5")
-          h5.mb-2 Audiencia Util
+          h5.mb-2 Audiencia util
           p Individuos que realmente se interesan en realizar una acción de compra del producto mientras la campaña publicitaria aún se encuentra al aire. Su análisis de métricas ayuda a saber si la campaña fue efectiva o no. 
 
         .tarjeta.color-acento-botones.p-3(x="22%" y="74%" numero="6")
@@ -181,7 +182,7 @@
         PasosB.color-acento-botones.pasosb2
           .row(titulo="").justify-content-center
             .col-lg-6
-              h3 Definición del <i>Buyer</i> Persona. 
+              h3 Definición del <i>Buyer</i> Persona 
               p El <i>Buyer</i> Persona es el cliente ideal, e identificarlo es el primer paso que se debe realizar para hallar al público en la web. La idea es documentar y agrupar cuáles son los intereses y motivos reales de los potenciales clientes. Se hace necesario comprender la personalidad de una audiencia con el fin de lograr una adaptación de los contenidos digitales a sus personalidades, de tal forma que se les pueda hacer sentir que la comunicación es directa con cada uno de ellos. Para conocer el <i>Buyer</i> Persona se necesita tener en cuenta los siguientes detalles: qué, quién, dónde, cuándo y por qué. 
 
             .col-10.col-lg-6
@@ -191,7 +192,7 @@
           .row(titulo="").justify-content-center
             .col-lg-6
               h3 Herramientas de búsqueda
-              p Conseguir que los contenidos digitales estén donde la audiencia se encuentra, facilita enormemente los esfuerzos publicitarios y de mercadeo. Por eso es importante apoyarse en herramientas que admiten conocer dónde está dicha audiencia e incluso, donde se encuentra la competencia. Para ello nos podemos apoyar en herramientas como plataformas de recolección de datos y motores de búsqueda, Google Trends, SimilarWeb, Semrush y Alexa son algunas de estas herramientas. 
+              p Conseguir que los contenidos digitales estén donde la audiencia se encuentra, facilita enormemente los esfuerzos publicitarios y de mercadeo. Por eso es importante apoyarse en herramientas que admiten conocer dónde está dicha audiencia e incluso, dónde se encuentra la competencia. Para ello nos podemos apoyar en herramientas como plataformas de recolección de datos y motores de búsqueda, Google Trends, SimilarWeb, Semrush y Alexa son algunas de estas herramientas. 
 
               p Lo mismo ocurre en las redes sociales, porque allí también se pueden hallar clientes y prospectos, adicional existen plataformas que admiten encontrar e ir directamente a los clientes, como, por ejemplo, Hootsuite, Klout, TweetReach, HowSociable, Twazzup, etc.
 
@@ -205,7 +206,7 @@
               h3 Círculos sociales
               p No hay nada más eficaz que tener una conexión y una interacción con la audiencia a través de las redes sociales. La influencia que se puede generar es muy alta porque permiten motivar a los individuos de forma amplificada. 
 
-              p Si la audiencia de la marca se encuentra en Instagram, por ejemplo,  la empresa debe tener presencia en esta plataforma. Pero si por ejemplo, después de realizar el estudio pertinente, se identifica  que el Buyer Persona no se encuentra en LinkedIn, la empresa no debería invertir recursos en esta red social. 
+              p Si la audiencia de la marca se encuentra en Instagram, por ejemplo,  la empresa debe tener presencia en esta plataforma. Pero si por ejemplo, después de realizar el estudio pertinente, se identifica  que el <i>Buyer</i> Persona no se encuentra en LinkedIn, la empresa no debería invertir recursos en esta red social. 
               p En conclusión, la mejor estrategia es alinearse a través de los medios sociales que la audiencia está usando, de tal forma que se pueda generar una interacción con los individuos que hagan parte de esta.
 
 
@@ -216,7 +217,7 @@
           .row(titulo="").justify-content-center
             .col-lg-6
               h3 Creación de contenidos
-              p CLos contenidos digitales son una buena manera de conseguir fidelización. Con trabajo SEO (Search Engine Optimization) los contenidos se hacen virales, atraen tráfico y también incentivan las compras, pero para lograr que estos se puedan viralizar y ayuden a una acción de compra se requiere compartir aquellos que sean deseados, esperados y anhelados por el público. 
+              p Los contenidos digitales son una buena manera de conseguir fidelización. Con trabajo SEO (Search Engine Optimization) los contenidos se hacen virales, atraen tráfico y también incentivan las compras, pero para lograr que estos se puedan viralizar y ayuden a una acción de compra se requiere compartir aquellos que sean deseados, esperados y anhelados por el público. 
 
               p No es una tarea fácil de desarrollar, pero, si se logra realizar una buena labor, los contenidos digitales permiten ganar credibilidad y confianza. Por eso es vital saber de antemano qué es lo que los clientes desean leer, ver o escuchar, además de crear contenidos de valor.
 
@@ -265,7 +266,7 @@
     h3.my-5 La cultura de masas
 
     .row.justify-content-center.my-5
-      p  ¿Que tan familiar es el concepto de cultura de masas?, a continuación, tres ideas claves al respecto
+      p  ¿Que tan familiar es el concepto de cultura de masas?, a continuación, tres ideas claves al respecto:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-rosa.p-4
@@ -309,7 +310,7 @@
 
 
     .row
-      p Este concepto hace referencia a aquellas estrategias y técnicas que realiza una compañía para para administrar  las relaciones y comunicación con sus clientes, tanto potenciales como ya existentes 
+      p Este concepto hace referencia a aquellas estrategias y técnicas que realiza una compañía para administrar  las relaciones y comunicación con sus clientes, tanto potenciales como ya existentes 
       p Entre los aspectos relacionados con la gestión de clientes se tienen las siguiente ideas claves:
 
     .row.justify-content-center.my-5
@@ -318,7 +319,7 @@
           img(src='@/assets/curso/temas/tema1/img23.png', alt='Texto que describa la imagen')        
       .col-lg-8
         .row
-          h4 Gestión de clientes
+          h4 La competencia
           .bloque-texto-b
             .bloque-texto-b__texto
               i.fas.fa-quote-left
@@ -341,7 +342,7 @@
     .row.justify-content-center.my-5
       .col-lg-10
         .cajon.color-primario.p-3
-          p Para ampliar la información sobre los beneficios de la gestión de clientes, las etapas para una gestión de clientes eficiente y los tipos de gestión de clientes, puede dirigirse al <b>Anexo 3. La gestión de clientes.</b>
+          p Para ampliar la información sobre los beneficios de la gestión de clientes, las etapas para una gestión de clientes eficientes y los tipos de gestión de clientes, puede dirigirse al <b>Anexo 3. La gestión de clientes.</b>
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-3_La_gestion_de_clientes.pdf')" target="_blank")

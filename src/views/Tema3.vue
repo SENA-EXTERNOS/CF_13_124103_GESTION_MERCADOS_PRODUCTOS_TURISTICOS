@@ -86,10 +86,10 @@
             h5 Fidelización
             p.ps-4 <i class='fas fa-circle' style='font-size:10px'></i> El objetivo principal es forjar una relación estrecha y duradera con el cliente. Para conseguirlo, se pueden crear comunidades virtuales que establezcan una comunicación y una CX a largo plazo con la marca. 
 
-    .row.my-5
+    .row.justify-content-center.my-5
       .col-lg-10
         .cajon.color-acento-contenido.p-3.my-5
-          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital,] en su página inicial se detallan otros aspectos relacionados con el #[i marketing digital].
+          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital,] en su página inicial se detallan otros aspectos relacionados con el #[i marketing] digital.
           .row
             .col-lg-6
               a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
@@ -98,7 +98,7 @@
                 .anexo__texto
                   p #[strong Anexo 7.] #[i Marketing] digital
 
-    h3.my-5 Herramientas de marketing digital
+    h3.my-5 Herramientas de <i>marketing</i> digital
 
     .row.my-5
       p El #[i marketing] digital se compone de herramientas que facilitan la expansión de productos y servicios de forma #[i online].
@@ -121,17 +121,6 @@
           .row(titulo="Elección")
             p Elegir estas herramientas es un verdadero reto, pues con ellas es posible abordar grandes volúmenes de información, acelerando procesos y mejorando resultados.
           
-    .row.my-5
-      .col-lg-10
-        .cajon.color-acento-contenido.p-3.my-5
-          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital,] en la sección #[strong herramientas,] se precisan diversas herramientas digitales vinculadas al #[i marketing] digital. 
-          .row
-            .col-lg-6
-              a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p #[strong Anexo 7.] #[i Marketing] digital
 
     p El  <i>marketing</i> digital cuenta con técnicas y estrategias significativas, las cuales podrá consultar a continuación: 
 
@@ -146,45 +135,17 @@
            
             h3.text-center.mt-5 Técnicas de <i>marketing</i> digital
             p.text-center La aceptación y uso de nuevas herramientas nacidas a través de las nuevas tecnologías, ha generado un nuevo tipo de mercadeo en el que se ha vuelto preponderante la interacción con el cliente. 
-            p.text-center Es por esto que el marketing digital usa diferentes técnicas para lograr los objetivos pactados, las cuales poseen características que se adecúan a una u otra estrategia, aunque también es posible que se adecúan a varias estrategias, siempre y cuando sirvan para reformar sus respectivos planes de acción.
+            p.text-center Es por esto que el <i>marketing</i> digital usa diferentes técnicas para lograr los objetivos pactados, las cuales poseen características que se adecúan a una u otra estrategia, aunque también es posible que se adecúan a varias estrategias, siempre y cuando sirvan para reformar sus respectivos planes de acción.
           .col-md.tarjeta.color-rosa1.p-4
             .row.justify-content-center.mb-4
               .col-6.col-lg-4
                 figure.mt-5
                   img(src='@/assets/curso/temas/tema3/img9.png', alt='Texto que describa la imagen')          
 
-            h3.text-center.mt-5 Estrategias para el marketing digital
+            h3.text-center.mt-5 Estrategias para el <i>marketing</i> digital
             p.text-center Un plan de mercadeo se debe concentrar en la consecución de los objetivos pactados por la empresa y estar alineado con los objetivos del plan de negocio. 
 
             p.text-center Las estrategias tienen como función contribuir a que se alcancen los objetivos pactados en los dos planes y, se pueden usar de manera combinada en el progreso de las diferentes técnicas que la empresa vaya a explotar. 
-
-
-    .row.justify-content-center.my-5
-      .col-lg-6.my-3
-        .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital, ] en la sección de #[strong técnicas,] se describen las más usadas actualmente.
-          .row
-            .col-lg-6
-              a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p #[strong Anexo 7.] #[i Marketing] digital
-
-      .col-lg-6.my-3
-        .cajon.color-acento-contenido.p-3
-          p Para ampliar información revise el  #[strong Anexo 7. #[i Marketing] digital, ] en la sección de #[strong estrategias,] se detallan las categorías en las que se clasifican las diversas estrategias asociadas al #[i marketing] digital.
-          .row
-            .col-lg-6
-              a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-7_marketing_digital.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p #[strong Anexo 7.] #[i Marketing] digital
-
-
-
-
 
 </template>
 
