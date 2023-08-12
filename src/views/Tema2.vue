@@ -193,17 +193,6 @@
             h3.text-center.mt-5 Usuarios de comunidades virtuales
             p.text-center Los perfiles de usuarios de las diferentes comunidades virtuales son variados, entre ellos se identifican miembros con diversos roles, como, por ejemplo, el administrador, el líder de opinión, el hiperconectado, el cliente exigente, el <i>troll</i>, el <i>spammer</i>, el caza-concurso, entre otros, cada uno con características diferenciadoras dentro de la comunidad. 
 
-    .row.justify-content-center.my-5
-      .col-lg-6.my-3
-        .cajon.color-acento-contenido.p-3
-          p.mb-4 Para ampliar información revise el <b>Anexo 4. Comunidades virtuales</b>.  
-          .row
-            .col-lg-6.mb-4
-              a.anexo.mb-4(:href="obtenerLink('/downloads/anexo-4_comunidades_virtuales.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p #[strong Anexo 4.] Comunidades virtuales
 
     h3.my-5 Cómo crear una comunidad virtual
 
