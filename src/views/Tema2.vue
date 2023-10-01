@@ -214,10 +214,10 @@
         figure
           img(src='@/assets/curso/temas/tema2/img15.png', alt='Texto que describa la imagen')       
 
-    h3.my-5 La Net etiqueta
+    h3.my-5 La <i>Net</i> etiqueta
 
     .row.justify-content-center.my-5
-      p.my-5 A continuación, revise el concepto de net etiqueta desde la mirada de Fue Shea.
+      p.my-5 A continuación, revise el concepto de <i>Net</i> etiqueta desde la mirada de Fue Shea.
       .col-lg-4.my-3
         .tarjeta.tarjeta-slide.arriba.color-verde(@mouseover="indicadorTarjetaSlide = false").tarjeta-animada
           .indicador--hover(v-if="indicadorTarjetaSlide")

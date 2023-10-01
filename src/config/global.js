@@ -119,7 +119,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=K_vATJKWltc',
     },
     {
-      tema: 'Marketing digital',
+      tema: '<i>Marketing digital</i>',
       referencia:
         'Núñez Cudriz, E. y Miranda Corrales, J. (2020). <i>El marketing digital como un elemento de apoyo estratégico a las organizaciones</i>.',
       tipo: 'Artículo',

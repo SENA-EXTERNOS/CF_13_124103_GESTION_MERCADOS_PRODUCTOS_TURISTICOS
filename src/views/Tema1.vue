@@ -16,7 +16,7 @@
 
     h3.my-5 Audiencia meta
     p El concepto de “audiencia meta” está relacionado con la función del canal en donde se comunica o se promociona un producto (bien o servicio). 
-    p A continuación se presentan algunos ejemplos de la audiencia meta y características de la audiencia en general: 
+    p A continuación, se presentan algunos ejemplos de la audiencia meta y características de la audiencia en general: 
     .row.justify-content-center.my-5
       TabsA.color-acento-botones
         .tarjeta.tarjeta--rosa.p-4(titulo="Audiencia meta")
@@ -33,7 +33,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
             .col-lg-8
-              p.mt-4 En la actualidad, estos canales pueden ser los que nos proveen las TIC, como, por ejemplo, el correo electrónico, las redes sociales y el chat, entre otros.  Los jóvenes de hoy escuchan cierta música, según sean sus gustos personales y eligen plataformas digitales como Spotify o Youtube para poder escuchar los artistas preferidos. En estas plataformas los cautivan con las ofertas que las diferentes marcas puedan estar promocionando. 
+              p.mt-4 En la actualidad, estos canales pueden ser los que nos proveen las TIC, como, por ejemplo, el correo electrónico, las redes sociales y el chat, entre otros.  Los jóvenes de hoy escuchan cierta música, según sean sus gustos personales y eligen plataformas digitales como Spotify o YouTube para poder escuchar los artistas preferidos. En estas plataformas los cautivan con las ofertas que las diferentes marcas puedan estar promocionando. 
 
         .tarjeta.tarjeta--rosa.p-4(titulo="Público")
           .row.justify-content-center
@@ -50,7 +50,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
             .col-lg-8
-              p.mt-4 La publicidad digital es toda aquella forma de mercadeo que se realiza por medio de canales digitales, como sitios web, aplicaciones móviles, etc. Abarca imagen, audio, video y texto y, a diferencia de la publicidad tradicional, puede ser personalizada, o sea, llegar a un tipo de público en particular dependiendo de gustos y también es rápida en cuestión de publicación por su naturaleza digital.
+              p.mt-4 La publicidad digital es toda aquella forma de mercadeo que se realiza por medio de canales digitales, como sitios <i>web</i>, aplicaciones móviles, etc. Abarca imagen, audio, video y texto y, a diferencia de la publicidad tradicional, puede ser personalizada, o sea, llegar a un tipo de público en particular dependiendo de gustos y también es rápida en cuestión de publicación por su naturaleza digital.
 
         .tarjeta.tarjeta--rosa.p-4(titulo="Audiencia digital")
           .row.justify-content-center
@@ -58,7 +58,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img6.png', alt='Texto que describa la imagen')
             .col-lg-8
-              p.mt-4 En el área de la publicidad digital, el concepto de “audiencia digital” hace referencia al grupo de personas a la que se pretende enviar un mensaje con el fin de comenzar una interacción. Se entiende la interacción como la acción de intercambiar información vía chat, correo electrónico, redes sociales, blogs, foros, etc., entre el público y la empresa.  
+              p.mt-4 En el área de la publicidad digital, el concepto de “audiencia digital” hace referencia al grupo de personas a la que se pretende enviar un mensaje con el fin de comenzar una interacción. Se entiende la interacción como la acción de intercambiar información vía chat, correo electrónico, redes sociales, <i>blogs</i>, foros, etc., entre el público y la empresa.  
               p Este concepto ha ido evolucionando con el paso de los años, pero, aunque actualmente la segmentación de esta audiencia digital está orientada específicamente a los hábitos de navegar y comprar por internet, todavía está basada en la creación de perfiles geográficos, demográficos, psicográficos y conductuales.
 
     .row.justify-content-center.my-5
@@ -91,7 +91,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img7.png', alt='Texto que describa la imagen')      
 
-    p A continuación conoceremos los diferentes tipos de audiencia, sus definiciones y algunos ejemplos:
+    p A continuación, conoceremos los diferentes tipos de audiencia, sus definiciones y algunos ejemplos:
 
     .row.justify-content-center.my-5
       ImagenInfografica.color-acento-botones
@@ -124,11 +124,11 @@
           p <b>Ejemplo:</b> la cuña radial de la tienda de comidas rápidas está dirigida a jóvenes de aproximadamente 25 años de edad, que les gusta cuidar de su apariencia física, ubicados en el sector del centro de la ciudad, que quieren compartir con sus amigos o familiares un rato agradable comiendo productos vegetarianos.
         .tarjeta.color-acento-botones.p-3(x="22%" y="74%" numero="4")
           h5.mb-2 Audiencia real
-          p Grupo de individuos que pudie   ron ver o escuchar el mensaje publicitario mientras estuvo al aire en los diferentes canales de comunicación. Sirve para calcular la fuerza de atracción que tienen los distintos medios de comunicación.
+          p Grupo de individuos que pudieron ver o escuchar el mensaje publicitario mientras estuvo al aire en los diferentes canales de comunicación. Sirve para calcular la fuerza de atracción que tienen los distintos medios de comunicación.
     h3.my-5 Técnicas de identificación de audiencia
 
     .row.justify-content-center.my-5
-      p Lo ideal es que una campaña publicitaria sea enfocada en aquellos individuos que tienen más posibilidad de convertirse en clientes, pues será más efectiva no sólo en términos de lograr los objetivos sino que es posible lograr reducción de costos, e incluso, evitar gastos innecesarios en tiempo y dinero. 
+      p Lo ideal es que una campaña publicitaria sea enfocada en aquellos individuos que tienen más posibilidad de convertirse en clientes, pues será más efectiva no sólo en términos de lograr los objetivos, sino que es posible lograr reducción de costos, e incluso, evitar gastos innecesarios en tiempo y dinero. 
 
       .cajon.color-primario.p-4.my-5
         p A continuación, se describen unos pasos que ayudarán a delimitar la audiencia:
@@ -180,7 +180,7 @@
           .row(titulo="").justify-content-center
             .col-lg-6
               h3 Definición del <i>Buyer</i> Persona 
-              p El <i>Buyer</i> Persona es el cliente ideal, e identificarlo es el primer paso que se debe realizar para hallar al público en la web. La idea es documentar y agrupar cuáles son los intereses y motivos reales de los potenciales clientes. Se hace necesario comprender la personalidad de una audiencia con el fin de lograr una adaptación de los contenidos digitales a sus personalidades, de tal forma que se les pueda hacer sentir que la comunicación es directa con cada uno de ellos. Para conocer el <i>Buyer</i> Persona se necesita tener en cuenta los siguientes detalles: qué, quién, dónde, cuándo y por qué. 
+              p El <i>Buyer</i> Persona es el cliente ideal, e identificarlo es el primer paso que se debe realizar para hallar al público en la <i>web</i>. La idea es documentar y agrupar cuáles son los intereses y motivos reales de los potenciales clientes. Se hace necesario comprender la personalidad de una audiencia con el fin de lograr una adaptación de los contenidos digitales a sus personalidades, de tal forma que se les pueda hacer sentir que la comunicación es directa con cada uno de ellos. Para conocer el <i>Buyer</i> Persona se necesita tener en cuenta los siguientes detalles: qué, quién, dónde, cuándo y por qué. 
 
             .col-10.col-lg-6
               figure
@@ -225,8 +225,8 @@
         
           .row(titulo="").justify-content-center
             .col-lg-6
-              h3 Analítica web
-              p La cantidad de métricas de valor que puede ser obtenida a través de herramientas como Google Analytics, Google Ads, Semrush, Hootsuite o Kissmetrics, entre otras es enorme; incluso, las mismas redes sociales entregan datos estadísticos que pueden servir para analizar si los esfuerzos publicitarios están cumpliendo con los objetivos trazados; a esto se le conoce como analítica web.  El buen uso de estas herramientas también ayuda a hallar el público en la web. 
+              h3 Analítica <i>web</i>
+              p La cantidad de métricas de valor que puede ser obtenida a través de herramientas como Google Analytics, Google Ads, Semrush, Hootsuite o Kissmetrics, entre otras es enorme; incluso, las mismas redes sociales entregan datos estadísticos que pueden servir para analizar si los esfuerzos publicitarios están cumpliendo con los objetivos trazados; a esto se le conoce como analítica <i>web</i>.  El buen uso de estas herramientas también ayuda a hallar el público en la <i>web</i>. 
 
             .col-10.col-lg-6
               figure
