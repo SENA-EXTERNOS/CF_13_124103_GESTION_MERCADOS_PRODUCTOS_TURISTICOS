@@ -188,6 +188,7 @@ export default {
   referencias: [
     {
       referencia: 'Abruzzese, A. (2004). <i>Cultura de masas</i>. CIC.',
+      link: 'https://www.redalyc.org/pdf/935/93500912.pdf',
     },
     {
       referencia:
@@ -196,6 +197,7 @@ export default {
     {
       referencia:
         'Casanova Ríspoli, E. (2009). <i>Bioética, Cultura Y Patrones De Conducta</i>. Universidad de la Sabana.',
+      link: 'https://www.redalyc.org/pdf/832/83211402004.pdf',
     },
     {
       referencia:
@@ -215,6 +217,7 @@ export default {
     {
       referencia:
         'Saavedra Llamas, M. (2016). <i>Audiencia social : Estrategias de comunicación para medios y marcas</i>. Primo.',
+      link: 'https://www.sintesis.com/data/indices/9788490774397.pdf',
     },
     {
       referencia: 'Shea, V. (1994). <i>Netiquette</i>. Albion Books.',
@@ -222,6 +225,11 @@ export default {
     {
       referencia:
         'Xie, S. & Min, Y. (2019). <i>Marketing Digital: Navegando En Aguas Digitales. Sumérgete Conmigo</i>. Ediciones de la U.',
+    },
+    {
+      referencia:
+        'López Carreño, R. (2017). <i>Fuentes de Información: Guía Básica y Nueva Clasificación</i>. Barcelona: Editorial UOC.',
+      link: 'https://revistas.um.es/analesdoc/article/view/323821/226921',
     },
   ],
   creditos: {
